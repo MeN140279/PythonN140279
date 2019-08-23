@@ -1,0 +1,6 @@
+rno	name	mobile
+cse1	sai	9876543210
+cse2	ramu	5543702543
+cse3	lakshmi 4876546789
+cse4	ravi	9876679999
+cse5	ds	7389274893758
